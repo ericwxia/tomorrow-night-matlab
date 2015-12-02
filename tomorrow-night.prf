@@ -1,0 +1,33 @@
+# tomorrow-night - MATLAB color scheme
+# Generated with schemer_export v1.3.0, on MATLAB 8.4.0.150421 (R2014b)
+# Wed Dec 02 20:44:34 CST 2015
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Bfalse
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Bfalse
+EditorCodeBlockDividers=Btrue
+Editorhighlight-caret-row-boolean=Bfalse
+EditorRightTextLineVisible=Bfalse
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-2564399
+ColorsBackground=C-14736862
+Colors_M_Keywords=C-3368500
+Colors_M_Comments=C-7828859
+Colors_M_Strings=C-1190912
+Colors_M_UnterminatedStrings=C-3891200
+Colors_M_SystemCommands=C-7675340
+Colors_M_Errors=C-1103575
+Colors_HTML_HTMLLinks=C-1199840
+Colors_M_Warnings=C-217282
+ColorsMLintAutoFixBackground=C-10931372
+Editor.VariableHighlighting.Color=C-11513776
+Editor.NonlocalVariableHighlighting.TextColor=C-9265201
+Editorhighlight-lines=C-13288387
+Editorhighlight-caret-row-boolean-color=C-12632257
+EditorRightTextLimitLineColor=C-11775661
+Color_CmdWinWarnings=C-217282
+Color_CmdWinErrors=C-36238
