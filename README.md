@@ -23,4 +23,4 @@ scheme_import('default.prf')
 ```
 
 ## Credits
-This color scheme uses [Base16 Theme](https://github.com/chriskempson/base16) (formerly [Tomorrow Theme]()) and [Matlab-schemer](https://github.com/scottclowe/matlab-schemer).
+This color scheme uses [Base16 Theme](https://github.com/chriskempson/base16) (formerly [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme)) and [Matlab-schemer](https://github.com/scottclowe/matlab-schemer).
